@@ -1,0 +1,5 @@
+All you need to do is change the downloads/ directory to the directory your debs are in and add this <? include 'packages.php' ?> to your depiction document you can also add it to your index document. Don't edit anything in the PHP file unless you know what your doing editing anything besides the downfalls/ directory area it will mess up the count of the actual debs you have. If you'd like to use this to count the total of another file then edit where it says .deb and add the extension of your files your want counted.
+
+
+For support please create a topic at:
+http://deathscreations.com
